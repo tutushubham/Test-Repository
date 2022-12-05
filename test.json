@@ -1,0 +1,761 @@
+{
+  "requestId": "7d296f30-253b-4aea-9009-5773d6ec3c75",
+  "sequenceData": {
+    "BASE_SHEET": {
+      "cardSequence": {
+        "dataKey": "-1035227584",
+        "data": [
+          {
+            "id": "MSME_CARD_B2B_IN_DEF",
+            "cardId": "MSME_HTL_LANDING_CARD",
+            "template": {
+              "id": "BULLET_POINTS"
+            }
+          },
+          {
+            "id": "RECENT_SEARCHES_B2B_IN_DEF",
+            "cardId": "STATIC_CARD1",
+            "template": {
+              "id": "RECENT_SEARCH"
+            }
+          },
+          {
+            "id": "OFFER_VARIANT",
+            "cardId": "OFFERS",
+            "template": {
+              "id": "OFFER"
+            }
+          },
+          {
+            "id": "HOTEL_OFFERS_V2_B2B_IN_DEF",
+            "cardId": "HOT_OFFERS",
+            "template": {
+              "id": "OFFER"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "data": {
+    "BASE_SHEET": {
+      "cardData": {
+        "HOTEL_OFFERS_V2_B2B_IN_DEF": {
+          "dataKey": "-1719129341",
+          "data": {
+            "offerTracker": [
+              "H_9700_9700_[r1464]|H_8306_8306_[r1464]|H_8312_8312_[r1464]|H_6170_6170_[r1464]|H_8036_8036_[r1464]|H_5690_5690_[r1464]|H_5930_5930_[r1464]"
+            ],
+            "partners": {
+              "ICICI Bank": "https://promos.makemytrip.com/appfest/logo-strip-icici-bank.jpg",
+              "EMI ABC": "https://promos.makemytrip.com/appfest/%s/test2.jpg",
+              "Test Supplier": "https://promos.makemytrip.com/ai/%s/type.png",
+              "EMI - 2": "https://promos.makemytrip.com/appfest/%s/logo-strip-axis-hdfc-indusind.jpg",
+              "CITI Debit": "https://promos.makemytrip.com/appfest/%s/logo-strip-citi-credit-debit.jpg",
+              "RBL Credit": "https://promos.makemytrip.com/appfest/%s/logo-strip-rbl-credit.jpg",
+              "No Partner": "https://promos.makemytrip.com/appfest/%s/logo-strip-1X1-Blank.jpg",
+              "EMI-ICICI|SC|ZEST-Test": "https://promos.makemytrip.com/appfest/logo-strip-icici-sc-zest.jpg",
+              "random": "https://promos.makemytrip.com/appfest/%s/offerPartnerCiti.png",
+              "Vistara": "https://promos.makemytrip.com/appfest/%s/logo-strip-vistara.jpg",
+              "Amazon Pay": "https://promos.makemytrip.com/appfest/%s/logo-strip-amazon-pay.jpg",
+              "Axis Bank": "https://promos.makemytrip.com/appfest/%s/logo-strip-axis-bank.jpg",
+              "test|test|test": "https://promos.makemytrip.com/appfest/test.jpg",
+              "Spicejet": "https://promos.makemytrip.com/appfest/%s/logo-strip-spice-jet.jpg",
+              "CitiBank": "https://promos.makemytrip.com/appfest/%s/offerPartnerCiti.png",
+              "SBI Credit": "https://promos.makemytrip.com/appfest/%s/logo-strip-sbi-credit.jpg",
+              "test": "https://promos.makemytrip.com/appfest/%s/offerPartnerCiti.png",
+              "Air India correct": "https://promos.makemytrip.com/appfest/%s/logo-strip-air-india.jpg",
+              "Yes Bank": "https://promos.makemytrip.com/appfest/%s/logo-strip-yes-bank.jpg",
+              "EMI-ICICI|SC|ZEST": "https://promos.makemytrip.com/appfest/logo-strip-icici-sc-zest.jpg",
+              "HSBC Credit": "https://promos.makemytrip.com/appfest/%s/logo-strip-hsbc-credit.jpg",
+              "HDFC Credit": "https://promos.makemytrip.com/appfest/%s/logo-strip-hdfc-credit.jpg",
+              "Air India": "https://promos.makemytrip.com/appfest/logo-strip-air-india.jpg",
+              "ICICI Bank correct": "https://promos.makemytrip.com/appfest/%s/logo-strip-icici-bank.jpg",
+              "EMI - 1": "https://promos.makemytrip.com/appfest/%s/logo-strip-icici-sc-zest.jpg",
+              "Indigo": "https://promos.makemytrip.com/appfest/logo-strip-indigo.jpg",
+              "MMTBLACK": "https://promos.makemytrip.com/appfest/logo-strip-mmtblack.jpg",
+              "test incog": "https://promos.makemytrip.com/appfest/%s/test.jpg"
+            },
+            "promoMessagesMap": {
+              "8036": {
+                "active": false,
+                "upcoming": false,
+                "ctaText": "Explore Now",
+                "id": 8036,
+                "pTl": "Now Engage Better with Your Channel Partners & Employees!",
+                "pTx": "Conduct physical meetings & off-sites with highest safety standards.",
+                "lob": "OTHERS",
+                "pf": "ALL",
+                "url": "https://mybiz.makemytrip.com/corp/bulkBooking",
+                "RO": "5",
+                "segments": "r1464",
+                "st": 1638885012809,
+                "et": 1640975399000,
+                "spSt": 0,
+                "spEt": 0,
+                "herodSt": 1638885012809,
+                "herodEt": 0,
+                "Fl": "Search,Home",
+                "dis": 0,
+                "maxDis": 0,
+                "inv": 0,
+                "hero": true,
+                "dStxt": "Now Engage Better ",
+                "heroUrl": "https://promos.makemytrip.com/appfest/Channel-Partner-myBiz.jpg",
+                "newHeroUrl": "https://promos.makemytrip.com/appfest/Channel-Partner-myBiz.jpg",
+                "newHeroOfferCardUrl": "https://promos.makemytrip.com/appfest/Channel-Partner-myBiz.png",
+                "cardCTAText": "Explore Now",
+                "dEtxt": "Partners & Employees",
+                "offerTxt": "with Your Channel ",
+                "matchedSegments": [
+                  "r1464"
+                ],
+                "showExpiry": false,
+                "pwaTncUrl": "https://mybiz.makemytrip.com/corp/bulkBooking",
+                "tncCtaText": "Explore Now",
+                "visibleOnHome": true,
+                "offerPersuasion": "Explore Now",
+                "categories": "",
+                "displayStartTime": 1609491803000,
+                "displayEndTime": 1640941790000,
+                "bank": "None",
+                "heroDisplayTimeDifference": 0,
+                "skyBrandImgUrl": "",
+                "skyBankImgUrl": "",
+                "skyMasterImgUrl": "https://promos.makemytrip.com/appfest/%s/132x246-myBiz-channelPartner.jpg",
+                "skyTagImgUrl": "",
+                "skyBigFullImgUrl": "",
+                "welcomeOffer": false,
+                "crossSell": false
+              },
+              "8312": {
+                "active": false,
+                "upcoming": false,
+                "ctaText": "Explore Now",
+                "id": 8312,
+                "pTl": "Show Your Appreciation with the Perfect Gift!",
+                "pTx": "Choose from our wide range of Corporate Gift Cards.",
+                "lob": "OTHERS",
+                "pf": "ALL",
+                "url": "https://www.makemytrip.com/gift-cards/corporate-gift-vouchers.php",
+                "RO": "3",
+                "segments": "r1464",
+                "st": 1638885012809,
+                "et": 1640975399000,
+                "spSt": 0,
+                "spEt": 0,
+                "herodSt": 1638885012809,
+                "herodEt": 0,
+                "Fl": "Search,Home",
+                "dis": 0,
+                "maxDis": 0,
+                "inv": 0,
+                "hero": true,
+                "dStxt": "Corporate",
+                "heroUrl": "https://promos.makemytrip.com/appfest/myBiz-GC-21042021.jpg",
+                "newHeroUrl": "https://promos.makemytrip.com/appfest/myBiz-GC-21042021.jpg",
+                "newHeroOfferCardUrl": "https://promos.makemytrip.com/appfest/myBiz-GC-21042021.png",
+                "cardCTAText": "Explore Now",
+                "dEtxt": "On myBiz",
+                "offerTxt": "Gift Cards",
+                "matchedSegments": [
+                  "r1464"
+                ],
+                "showExpiry": false,
+                "pwaTncUrl": "https://www.makemytrip.com/gift-cards/corporate-gift-vouchers.php",
+                "tncCtaText": "Explore Now",
+                "visibleOnHome": true,
+                "offerPersuasion": "Explore Now",
+                "categories": "",
+                "displayStartTime": 1609491803000,
+                "displayEndTime": 1640937202000,
+                "bank": "None",
+                "heroDisplayTimeDifference": 0,
+                "skyBrandImgUrl": "",
+                "skyBankImgUrl": "https://promos.makemytrip.com/appfest/%s/64x64-myBiz-GC-21042021.jpg",
+                "skyMasterImgUrl": "https://promos.makemytrip.com/appfest/%s/132x246-myBiz-GC-21042021.jpg",
+                "skyTagImgUrl": "",
+                "skyBigFullImgUrl": "",
+                "welcomeOffer": false,
+                "crossSell": false
+              },
+              "9700": {
+                "active": false,
+                "upcoming": false,
+                "ctaText": "View Details",
+                "id": 9700,
+                "pTl": "Grab Up To 3% Instant Discount* on Domestic Flights & Hotels!",
+                "pTx": "Offer Valid on Kotak BIZ Cards Only!",
+                "lob": "DF,DH,OTHERS",
+                "pf": "ALL,PWA,PWA_V2",
+                "url": "https://www.makemytrip.com/promos/mybiz-kotak-alliance.html?isCorporate=true&detail_image=no",
+                "RO": "1",
+                "segments": "r1464",
+                "st": 1638885012808,
+                "et": 1640975399000,
+                "spSt": 0,
+                "spEt": 0,
+                "herodSt": 1638885012808,
+                "herodEt": 0,
+                "Fl": "Search,Home",
+                "dis": 0,
+                "maxDis": 0,
+                "inv": 0,
+                "hero": true,
+                "dStxt": "Up to 3% Instant",
+                "heroUrl": "https://promos.makemytrip.com/appfest/mybiz-kotak-alliance-30112021.jpg",
+                "newHeroUrl": "https://promos.makemytrip.com/appfest/mybiz-kotak-alliance-30112021.jpg",
+                "newHeroOfferCardUrl": "https://promos.makemytrip.com/appfest/myBiz-Kotak-Alliance-25112021.png",
+                "cardCTAText": "View Details",
+                "dEtxt": "& Hotels!",
+                "offerTxt": "Discount* on Flights",
+                "matchedSegments": [
+                  "r1464"
+                ],
+                "showExpiry": false,
+                "pwaTncUrl": "https://www.makemytrip.com/promos/mybiz-kotak-alliance.html?isCorporate=true&detail_image=no",
+                "tncCtaText": "View Details",
+                "visibleOnHome": true,
+                "categories": "",
+                "displayStartTime": 1609491803000,
+                "displayEndTime": 1640974190000,
+                "bank": "None",
+                "heroDisplayTimeDifference": 0,
+                "skyBrandImgUrl": "",
+                "skyBankImgUrl": "",
+                "skyMasterImgUrl": "",
+                "skyTagImgUrl": "",
+                "skyBigFullImgUrl": "https://promos.makemytrip.com/appfest/%s/294x161-myBiz-Kotak-Alliance-25112021.jpg",
+                "welcomeOffer": false,
+                "crossSell": false
+              }
+            },
+            "intentSequences": {
+              "DF": [
+                "8306",
+                "8312",
+                "9700",
+                "6170",
+                "8036",
+                "5690",
+                "5930"
+              ],
+              "default": [
+                "8306",
+                "8312",
+                "9700",
+                "6170",
+                "8036",
+                "5690",
+                "5930"
+              ],
+              "DH": [
+                "8306",
+                "8312",
+                "9700",
+                "6170",
+                "8036",
+                "5690",
+                "5930"
+              ],
+              "IF": [
+                "8306",
+                "8312",
+                "9700",
+                "6170",
+                "8036",
+                "5690",
+                "5930"
+              ],
+              "IH": [
+                "8306",
+                "8312",
+                "9700",
+                "6170",
+                "8036",
+                "5690",
+                "5930"
+              ]
+            },
+            "bankMap": {
+              "Amex": {
+                "bankName": "Amex",
+                "bankDisplayName": "American Express",
+                "iconUrl": "https://promos.makemytrip.com/appfest/%s/amex.png"
+              },
+              "PNB": {
+                "bankName": "PNB",
+                "bankDisplayName": "Punjab National Bank",
+                "iconUrl": "https://promos.makemytrip.com/appfest/%s/pnb.png"
+              },
+              "Yes": {
+                "bankName": "Yes",
+                "bankDisplayName": "YES Bank",
+                "iconUrl": "https://promos.makemytrip.com/appfest/%s/none.png"
+              },
+              "HSBC": {
+                "bankName": "HSBC",
+                "bankDisplayName": "HSBC Bank",
+                "iconUrl": "https://promos.makemytrip.com/appfest/%s/hsbc.png"
+              },
+              "Kotak": {
+                "bankName": "Kotak",
+                "bankDisplayName": "Kotak Bank",
+                "iconUrl": "https://promos.makemytrip.com/appfest/%s/kotak.png"
+              },
+              "ICICI": {
+                "bankName": "ICICI",
+                "bankDisplayName": "ICICI Bank",
+                "iconUrl": "https://promos.makemytrip.com/appfest/%s/icici.png"
+              },
+              "Federal Bank": {
+                "bankName": "Federal Bank",
+                "bankDisplayName": "Federal Bank",
+                "iconUrl": "https://promos.makemytrip.com/images/federal-65x65-28052019.png"
+              },
+              "Standard Chartered": {
+                "bankName": "Standard Chartered",
+                "bankDisplayName": "Standard Chartered",
+                "iconUrl": "https://promos.makemytrip.com/appfest/xxhdpi/standard-chartered.png"
+              },
+              "JnK Bank": {
+                "bankName": "JnK Bank",
+                "bankDisplayName": "Jammu And Kashmir Bank",
+                "iconUrl": "https://promos.makemytrip.com/images/jandk-65x65-28052019.png"
+              },
+              "Amazon Pay": {
+                "bankName": "Amazon Pay",
+                "bankDisplayName": "Amazon Pay",
+                "iconUrl": "https://promos.makemytrip.com/notification/xhdpi/pay-40x40-10022021.jpg"
+              },
+              "HDFC": {
+                "bankName": "HDFC",
+                "bankDisplayName": "HDFC Bank",
+                "iconUrl": "https://promos.makemytrip.com/appfest/%s/hdfc.png"
+              },
+              "Deutsche bank": {
+                "bankName": "Deutsche bank",
+                "bankDisplayName": "Deutsche Bank",
+                "iconUrl": "https://promos.makemytrip.com/images/deutsche-65x65-28052019.png"
+              },
+              "SBI": {
+                "bankName": "SBI",
+                "bankDisplayName": "State Bank of India",
+                "iconUrl": "https://promos.makemytrip.com/appfest/%s/sbi.png"
+              },
+              "Citi": {
+                "bankName": "Citi",
+                "bankDisplayName": "Citi Bank",
+                "iconUrl": "https://promos.makemytrip.com/notification/xhdpi/citi-40x40-10022021.jpg"
+              },
+              "Bank of Baroda": {
+                "bankName": "Bank of Baroda",
+                "bankDisplayName": "Bank of Baroda",
+                "iconUrl": "https://promos.makemytrip.com/appfest/%s/none.png"
+              },
+              "UBI": {
+                "bankName": "UBI",
+                "bankDisplayName": "Union Bank",
+                "iconUrl": "https://promos.makemytrip.com/notification/xhdpi/ubi-65x65-18112019.jpg"
+              },
+              "RBL": {
+                "bankName": "RBL",
+                "bankDisplayName": "RBL Bank",
+                "iconUrl": "https://promos.makemytrip.com/appfest/%s/rbl.png"
+              },
+              "Axis": {
+                "bankName": "Axis",
+                "bankDisplayName": "Axis Bank",
+                "iconUrl": "https://promos.makemytrip.com/appfest/%s/axis.png"
+              }
+            },
+            "categorySequence": [
+              "HTL"
+            ],
+            "categories": [
+              "IRCTC",
+              "covid",
+              "EXP_TRAVEL",
+              "IntlHolidays",
+              "domHolidays",
+              "weekendGetaways",
+              "A_TOURIST",
+              "A_TRAVEL",
+              "cruises",
+              "TRAIN_HI",
+              "ACTVT_TRAVEL",
+              "FOOD_TRAVEL",
+              "FD_TOURIST",
+              "Metro",
+              "GIFT_CARDS",
+              "FD_LOCAL",
+              "FOOD_LOCAL",
+              "Outstation",
+              "ACTVT_LOCAL",
+              "ACME",
+              "A_LOCAL",
+              "E_TOURIST",
+              "Villas_Apts",
+              "Self Drive",
+              "E_LOCAL",
+              "GiftCard",
+              "EXP_LOCAL",
+              "Outstation_Cab",
+              "Airport",
+              "Trending",
+              "MMTBLACK"
+            ],
+            "categoryDisplayNameAndIconMap": {
+              "HTL": {
+                "first": "https://promos.makemytrip.com/appfest/%%s/OfferHotelIcon.png",
+                "second": "Hotels"
+              }
+            },
+            "offersSequence": {
+              "HTL": [
+                "9700"
+              ]
+            },
+            "viewAllText": "View All",
+            "displayTabs": false
+          },
+          "headerData": {
+            "header": "OFFERS",
+            "icon": "https://promos.makemytrip.com/Growth/Images/B2C/%s/icHomeLob_Offers_20200904.png",
+            "cta": {
+              "ctaFlag": false
+            }
+          },
+          "style": {
+            "themeBg": "#eaf5ff",
+            "themeColor": "#008cff",
+            "headerTint": "#994bff"
+          },
+          "template": {
+            "id": "OFFER",
+            "styleId": "OFFER",
+            "type": "Card",
+            "scroll": "Horizontal",
+            "state": "Expanded",
+            "position": "Top"
+          },
+          "trackingKey": "OFFERS"
+        },
+        "MSME_CARD_B2B_IN_DEF": {
+          "dataKey": "-1922214914",
+          "data": {
+            "header": "<b>Exclusive myBiz Benefits</b>",
+            "texts": [
+              "Free Cancellation on myBiz Special Fares",
+              "100% GST Invoices on myBiz Assured Hotels",
+              "24/7 Travel Expert Support"
+            ],
+            "bgLinearGradient": {
+              "start": "#F8F7FC",
+              "end": "#FEEFEE",
+              "direction": "horizontal"
+            },
+            "style": {
+              "bulletsTint": "#F46B49"
+            }
+          },
+          "headerData": {
+            "header": "logged in header",
+            "subheader": "logged in sub header",
+            "icon": "https://www.tripmoney.com/ext/static/tripmoney-logo.png"
+          },
+          "template": {
+            "id": "BULLET_POINTS",
+            "styleId": "BULLET_POINTS_STYLE",
+            "type": "Card",
+            "scroll": "Horizontal",
+            "state": "Expanded",
+            "position": "Top"
+          },
+          "trackingKey": "TRIP_MONEY_T1"
+        },
+        "RECENT_SEARCHES_B2B_IN_DEF": {
+          "dataKey": "655411845",
+          "headerData": {
+            "header": "CONTINUE YOUR SEARCH",
+            "icon": "https://promos.makemytrip.com/Growth/Images/B2C/%s/icHomeSearchBlack_20201014.png"
+          },
+          "style": {
+            "headerTint": "#000000"
+          },
+          "template": {
+            "id": "RECENT_SEARCH",
+            "styleId": "STATIC_T1",
+            "type": "Card",
+            "scroll": "Horizontal",
+            "state": "Expanded",
+            "position": "Top"
+          },
+          "trackingKey": "RECENTSEARCH"
+        }
+      },
+      "apiData": {
+        "HTL_FILTERS": {
+          "dataKey": "-324049700",
+          "data": {
+            "domestic": {
+              "filters": [
+                {
+                  "filterValue": "CANCELLATION_AVAIL",
+                  "filterGroup": "FREE_CANCELLATION_AVAIL",
+                  "title": "Free Cancellation"
+                },
+                {
+                  "filterValue": "BREAKFAST_AVAIL",
+                  "filterGroup": "FREE_BREAKFAST_AVAIL",
+                  "title": "Breakfast Available"
+                },
+                {
+                  "filterValue": 5,
+                  "filterGroup": "STAR_RATING",
+                  "title": "5 Star"
+                }
+              ]
+            },
+            "international": {
+              "filters": [
+                {
+                  "filterValue": "CANCELLATION_AVAIL",
+                  "filterGroup": "FREE_CANCELLATION_AVAIL",
+                  "title": "Free Cancellation"
+                },
+                {
+                  "filterValue": "BREAKFAST_AVAIL",
+                  "filterGroup": "FREE_BREAKFAST_AVAIL",
+                  "title": "Breakfast Available"
+                },
+                {
+                  "filterValue": "Near_Indian_Resturants",
+                  "filterGroup": "GLAZE_FILTERS",
+                  "title": "Near Indian Restaurants"
+                }
+              ]
+            }
+          },
+          "headerData": {
+            "cta": {
+              "ctaFlag": false
+            }
+          }
+        },
+        "LOCATION_DATA": {
+          "dataKey": "-707060428",
+          "data": {
+            "baseLocationData": {
+              "city": [
+                {
+                  "id": "CTNOI",
+                  "name": "Noida",
+                  "centre": {
+                    "type": "Point",
+                    "coordinates": [
+                      77.38434,
+                      28.51839
+                    ]
+                  }
+                }
+              ],
+              "state": [
+                {
+                  "id": "STUP",
+                  "name": "Uttar Pradesh"
+                }
+              ],
+              "country": {
+                "id": "IN",
+                "name": "India"
+              }
+            },
+            "currentLocation": {
+              "lat": 28.57,
+              "lng": 77.32
+            },
+            "nearbyData": {
+              "BUS": [
+                {
+                  "type": "NEAREST",
+                  "businessCode": "MMTCC2195",
+                  "businessName": "Noida",
+                  "city": "MMTCC2195",
+                  "cityName": "Noida",
+                  "state": "STUP",
+                  "countryCode": "IN",
+                  "centre": {
+                    "type": "Point",
+                    "coordinates": [
+                      77.39103,
+                      28.53552
+                    ]
+                  }
+                },
+                {
+                  "type": "NEAREST",
+                  "businessCode": "MMTCC48772",
+                  "businessName": "Ghaziabad",
+                  "city": "MMTCC48772",
+                  "cityName": "Ghaziabad",
+                  "state": "STUP",
+                  "countryCode": "IN",
+                  "centre": {
+                    "type": "Point",
+                    "coordinates": [
+                      77.45376,
+                      28.66916
+                    ]
+                  }
+                },
+                {
+                  "type": "NEAREST",
+                  "businessCode": "MMTCC42501",
+                  "businessName": "Mohan Nagar(Uttar Pradesh)",
+                  "city": "MMTCC42501",
+                  "cityName": "Mohan Nagar(Uttar Pradesh)",
+                  "state": "STUP",
+                  "countryCode": "IN",
+                  "centre": {
+                    "type": "Point",
+                    "coordinates": [
+                      77.38628,
+                      28.67282
+                    ]
+                  }
+                },
+                {
+                  "type": "NEAREST",
+                  "businessCode": "MMTCC6054",
+                  "businessName": "Faridabad",
+                  "city": "MMTCC6054",
+                  "cityName": "Faridabad",
+                  "state": "STHR",
+                  "countryCode": "IN",
+                  "centre": {
+                    "type": "Point",
+                    "coordinates": [
+                      77.31779,
+                      28.40891
+                    ]
+                  }
+                },
+                {
+                  "type": "NEAREST",
+                  "businessCode": "MMTCC37893",
+                  "businessName": "Delhi 1 day Tour",
+                  "city": "MMTCC37893",
+                  "cityName": "Delhi 1 day Tour",
+                  "state": "STDEL",
+                  "countryCode": "IN",
+                  "centre": {
+                    "type": "Point",
+                    "coordinates": [
+                      77.22054,
+                      28.6357
+                    ]
+                  }
+                }
+              ],
+              "RAILS": [
+                {
+                  "type": "HUB",
+                  "businessCode": "NDLS",
+                  "businessName": "NEW DELHI",
+                  "cityName": "Delhi",
+                  "state": "STDEL",
+                  "countryCode": "IN",
+                  "centre": {
+                    "type": "Point",
+                    "coordinates": [
+                      77.21909,
+                      28.64289
+                    ]
+                  }
+                },
+                {
+                  "type": "HUB",
+                  "businessCode": "NZM",
+                  "businessName": "H NIZAMUDDIN",
+                  "cityName": "Delhi",
+                  "state": "STDEL",
+                  "countryCode": "IN",
+                  "centre": {
+                    "type": "Point",
+                    "coordinates": [
+                      77.25365,
+                      28.58901
+                    ]
+                  }
+                },
+                {
+                  "type": "NEAREST",
+                  "businessCode": "DLI",
+                  "businessName": "DELHI",
+                  "cityName": "Delhi",
+                  "state": "STDEL",
+                  "countryCode": "IN",
+                  "centre": {
+                    "type": "Point",
+                    "coordinates": [
+                      77.22768,
+                      28.66096
+                    ]
+                  }
+                },
+                {
+                  "type": "NEAREST",
+                  "businessCode": "ANVT",
+                  "businessName": "ANAND VIHAR TRM",
+                  "cityName": "New Delhi",
+                  "state": "STUP",
+                  "countryCode": "IN",
+                  "centre": {
+                    "type": "Point",
+                    "coordinates": [
+                      77.31543,
+                      28.64879
+                    ]
+                  }
+                },
+                {
+                  "type": "NEAREST",
+                  "businessCode": "DEE",
+                  "businessName": "DELHI S ROHILLA",
+                  "cityName": "New Delhi",
+                  "state": "STDEL",
+                  "countryCode": "IN",
+                  "centre": {
+                    "type": "Point",
+                    "coordinates": [
+                      77.1853,
+                      28.66278
+                    ]
+                  }
+                }
+              ],
+              "FLT": [
+                {
+                  "type": "HUB",
+                  "businessCode": "DEL",
+                  "businessName": "Indira Gandhi International Airport",
+                  "cityName": "New Delhi",
+                  "state": "STDEL",
+                  "countryCode": "IN",
+                  "centre": {
+                    "type": "Point",
+                    "coordinates": [
+                      77.10309,
+                      28.5665
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}
